@@ -9,11 +9,3 @@ type: "University of Bayreuth. Spring 2025 (Lecturer)"
 ---
 
  
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
