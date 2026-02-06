@@ -6,6 +6,11 @@ author_profile: true
 #redirect_from: 
 #  - /about/
 #  - /about.html
+<style>
+.author__avatar img {
+    width: 220px !important;
+}
+</style>
 ---
 I am a Postdoctoral Researcher at the Chair of Empirical Macroeconomics and Family Economics at the University of Bayreuth (Germany). I received my Ph.D. in Agricultural Economics at ETH Zurich in 2024. My research focuses on Applied Microeconomics, Policy Uncertainty and the Elicitation of Expectations and Preferences.More broadly, my interests lie at the intersection of agriculture, the environment, and health.
 
