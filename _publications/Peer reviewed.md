@@ -5,10 +5,8 @@ layout: single
 author_profile: true
 ---
 
-## Publications
 
-
-García, V., Möhring, N., Wang, Y., & Finger, R. (2025). Farmer Behavior towards herbicide-free agriculture and conservation tillage. *American Journal of Agricultural Economics*, 108(1), 28–53.  [https://onlinelibrary.wiley.com/doi/10.1111/ajae.12550](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12550)
+●  García, V., Möhring, N., Wang, Y., & Finger, R. (2025). Farmer Behavior towards herbicide-free agriculture and conservation tillage. *American Journal of Agricultural Economics*, 108(1), 28–53.  [https://onlinelibrary.wiley.com/doi/10.1111/ajae.12550](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12550)
 
 
 
@@ -30,3 +28,15 @@ Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](ht
 Vargas, J. F., Gamboa, L. F., & García, V. (2014). El lado oscuro de la equidad: violencia y equidad en el desempeño escolar. *Desarrollo y Sociedad*, (74), 309-334.
 
 
+## Work in progress
+
+
+    “Policy uncertainty shocks deter farm investments in Europe: Evidence from a newspaper-based index” (with Scott Swinton and Robert Finger)
+    “Agricultural Policy Uncertainty: A Systematic Review of Literature” (with Niklas Möhring)
+
+## Resting
+
+
+    “Environmental injustice in Colombia: mining and health at birth” (with Juan F. Vargas)
+
+    “Do farmers prioritize risks? European farmers’ risk perceptions and socioeconomic attributes” (with Lara Meier, Chloe McCallum, Thomas Slijper, and Robert Finger)
