@@ -23,7 +23,6 @@ baseurl                  : "" # the subpath of your site, e.g. "/blog"
 author:
   # Biographic information
   avatar           : "profile.png"
-  avatar_size: 180
   name             : "Postdoctoral Researcher"
   pronouns         : # example: "she/her"  
   bio              : ""
@@ -58,7 +57,7 @@ author:
   # Social media
   share: false
   artstation       : # Username
-  bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -68,14 +67,14 @@ author:
   instagram        : # Username
   lastfm           : # Username
   linkedin         : # Username
-  mastodon         : # URL
-  medium           : # URL
+  mastodon         : # Username
+  medium           : # Username
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : # Usernmae
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username 
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
