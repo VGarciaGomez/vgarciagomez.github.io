@@ -50,8 +50,9 @@ We draw on a comprehensive survey of 1,719 farmers across eleven European countr
 <p style="font-size: 0.8em;">
 <strong>Abstract:</strong><br>
 Following the 2008 financial crisis, international gold prices rose sharply relative to prior years, prompting a substantial expansion of gold‑mining activity. This paper investigates the effects of gold‑mining operations on newborn health in Colombia during the subsequent mineral price boom. The analysis integrates data on geological mining potential, international gold prices, and Colombia’s vital statistics system. The results show that increases in mining activity lead to higher rates of preterm births (before 27 weeks of gestation) and greater incidence of low‑birth‑weight newborns (under 2,500 grams). In contrast, mining activity does not appear to affect fetal death rates. These findings are robust across multiple measures of mining intensity, including illegal mining presence, mining concessions, and gold production volumes.
-Link to the manuscript: [https://doi.org/10.48713/10336_11498](https://doi.org/10.48713/10336_11498)
 </p>
+Link to the manuscript: [https://doi.org/10.48713/10336_11498](https://doi.org/10.48713/10336_11498)
+
 
 ## Work in progress
 
