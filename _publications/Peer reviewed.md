@@ -16,9 +16,6 @@ author_profile: true
 
 ● Garcia, V., McCallum, C., & Finger, R. (2024). Heterogeneity of European farmers’ risk preferences: an individual participant data meta-analysis. *European Review of Agricultural Economics*, 51(3), jbae012. [https://doi.org/10.1093/erae/jbae012](https://doi.org/10.1093/erae/jbae012)
 
-Replication material available with article.
-
-
 
 ● Finger, R., Garcia, V., McCallum, C., & Rommel, J. (2024). A note on European farmers’ preferences under cumulative prospect theory. *Journal of Agricultural Economics*, 75(1), 465-472. [https://doi.org/10.1111/1477-9552.12565](https://doi.org/10.1111/1477-9552.12565)
 
@@ -33,7 +30,7 @@ Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](ht
 
 
 ## Working papers
-● Policy uncertainty shocks deter farm investments in Europe: Evidence from a newspaper-based index  (with Scott Swinton and Robert Finger)(Submitted)
+● Policy uncertainty shocks deter farm investments in Europe: Evidence from a newspaper-based index  (with Scott Swinton and Robert Finger)(*Submitted*)
 
 
 <p style="font-size: 1.1em;">
@@ -44,7 +41,7 @@ Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](ht
 
  </p>
 
-● Do farmers prioritize risks? European farmers’ risk perceptions and socioeconomic attributes (with Lara Meier, Chloe McCallum, Thomas Slijper, and Robert Finger)(Submitted)
+● Do farmers prioritize risks? European farmers’ risk perceptions and socioeconomic attributes (with Lara Meier, Chloe McCallum, Thomas Slijper, and Robert Finger)(*Submitted*)
 
 We draw on a comprehensive survey of 1,719 farmers across eleven European countries, capturing risk perceptions in production, market, institutional, and financial domains through self-assessments and subjective probabilities. To identify socioeconomic and farm-level factors associated with these perceptions, we estimate linear regression models and ordered logit specifications. We find that policy and institutional risks, followed by market risks rank highest, comprising risks of low market prices, strict regulations and low bargaining power towards retailers and processors. In addition, risk perceptions are significantly correlated with a broad set of socioeconomic attributes and farm characteristics, including age, education, farm size and succession.  
 
