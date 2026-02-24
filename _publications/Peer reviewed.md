@@ -43,14 +43,22 @@ Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](ht
 
 ● Do farmers prioritize risks? European farmers’ risk perceptions and socioeconomic attributes (with Lara Meier, Chloe McCallum, Thomas Slijper, and Robert Finger)(*Submitted*)
 
+<p style="font-size: 0.8em;">
+<strong>Abstract:</strong><br>
+
 We draw on a comprehensive survey of 1,719 farmers across eleven European countries, capturing risk perceptions in production, market, institutional, and financial domains through self-assessments and subjective probabilities. To identify socioeconomic and farm-level factors associated with these perceptions, we estimate linear regression models and ordered logit specifications. We find that policy and institutional risks, followed by market risks rank highest, comprising risks of low market prices, strict regulations and low bargaining power towards retailers and processors. In addition, risk perceptions are significantly correlated with a broad set of socioeconomic attributes and farm characteristics, including age, education, farm size and succession.  
+
+ </p>
 
 ● Environmental injustice in Colombia: mining and health at birth (with Juan F. Vargas)
 
+<p style="font-size: 0.8em;">
+<strong>Abstract:</strong><br>
+
 Following the 2008 financial crisis, international gold prices rose sharply relative to prior years, prompting a substantial expansion of gold‑mining activity. This paper investigates the effects of gold‑mining operations on newborn health in Colombia during the subsequent mineral price boom. The analysis integrates data on geological mining potential, international gold prices, and Colombia’s vital statistics system. The results show that increases in mining activity lead to higher rates of preterm births (before 27 weeks of gestation) and greater incidence of low‑birth‑weight newborns (under 2,500 grams). In contrast, mining activity does not appear to affect fetal death rates. These findings are robust across multiple measures of mining intensity, including illegal mining presence, mining concessions, and gold production volumes.
 
-[https://doi.org/10.48713/10336_11498](https://doi.org/10.48713/10336_11498)
-
+Link to the manuscript: [https://doi.org/10.48713/10336_11498](https://doi.org/10.48713/10336_11498)
+</p>
 
 ## Work in progress
 
