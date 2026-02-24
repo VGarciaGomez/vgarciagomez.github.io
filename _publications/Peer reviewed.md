@@ -14,7 +14,7 @@ author_profile: true
 
 
 
-● Garcia, V., McCallum, C., & Finger, R. (2024). [Heterogeneity of European farmers’ risk preferences: an individual participant data meta-analysis.](https://doi.org/10.1093/erae/jbae012) *European Review of Agricultural Economics*, 51(3), jbae012. [https://doi.org/10.1093/erae/jbae012](https://doi.org/10.1093/erae/jbae012)
+● Garcia, V., McCallum, C., & Finger, R. (2024). [Heterogeneity of European farmers’ risk preferences: an individual participant data meta-analysis.](https://doi.org/10.1093/erae/jbae012) *European Review of Agricultural Economics*, 51(3), jbae012. 
 
 
 ● Finger, R., Garcia, V., McCallum, C., & Rommel, J. (2024). [A note on European farmers’ preferences under cumulative prospect theory.](https://doi.org/10.1111/1477-9552.12565) *Journal of Agricultural Economics*, 75(1), 465-472. 
