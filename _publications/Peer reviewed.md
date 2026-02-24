@@ -26,7 +26,7 @@ author_profile: true
 Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](https://doi.org/10.3929/ethz-b-000651910)
 
 
-● Vargas, J. F., Gamboa, L. F., & García, V. (2014). El lado oscuro de la equidad: violencia y equidad en el desempeño escolar. *Desarrollo y Sociedad*, (74), 309-334.
+● Vargas, J. F., Gamboa, L. F., & García, V. (2014). El lado oscuro de la equidad: violencia y equidad en el desempeño escolar. *Desarrollo y Sociedad*, (74), 309-334.[https://doi.org/10.13043/dys.74.7](https://doi.org/10.13043/dys.74.7)
 
 
 ## Working papers
