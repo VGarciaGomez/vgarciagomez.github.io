@@ -33,7 +33,7 @@ Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](ht
 ● Policy uncertainty shocks deter farm investments in Europe: Evidence from a newspaper-based index  (with Scott Swinton and Robert Finger)(*Submitted*)
 
 
-<p style="font-size: 1.1em;">
+<p style="font-size: 0.8em;">
 <strong>Abstract:</strong><br>
 
 
