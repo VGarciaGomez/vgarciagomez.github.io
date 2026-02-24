@@ -21,7 +21,7 @@ author_profile: true
 
 
 
-● Garcia, V., Möhring, N., Wang, Y., & Finger, R. (2024). Risk Perceptions, Preferences, and the Adoption Dynamics of Pesticide-Free Production. *Journal of Agricultural & Resource Economics*, 49(1).
+● Garcia, V., Möhring, N., Wang, Y., & Finger, R. (2024). Risk Perceptions, Preferences, and the Adoption Dynamics of Pesticide-Free Production. *Journal of Agricultural & Resource Economics*, 49(1).[https://doi.org/10.22004/ag.econ.337553](https://doi.org/10.22004/ag.econ.337553)
 
 Replication material available at: [https://doi.org/10.3929/ethz-b-000651910](https://doi.org/10.3929/ethz-b-000651910)
 
