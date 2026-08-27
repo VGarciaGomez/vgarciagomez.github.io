@@ -10,4 +10,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download my full CV here: 👉 [**Download CV (PDF)**](../files/20230119_Garcia_CV.pdf)
+You can download my full CV here: 👉 [**Download CV (PDF)**](../files/20241126_CV.pdf)
