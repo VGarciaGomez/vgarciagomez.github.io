@@ -11,7 +11,7 @@ author_profile: true
 </style>
 
 
-●  Garcia, V., Swinton S. M., & Finger, R. (2026). [Policy uncertainty shocks and farm investments in Europe: Evidence from a newspaper-based index](https://doi.org/10.1002/ajae.70104) *American Journal of Agricultural Economics*
+●  Garcia, V., Swinton S. M., & Finger, R. (2026). [Policy uncertainty shocks and farm investments in Europe: Evidence from a newspaper-based index.](https://doi.org/10.1002/ajae.70104) *American Journal of Agricultural Economics*
 
 
 
