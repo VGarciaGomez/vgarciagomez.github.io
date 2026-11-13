@@ -10,6 +10,11 @@ author_profile: true
 }
 </style>
 
+
+●  Garcia, V., Swinton S. M., & Finger, R. (2026). [Policy uncertainty shocks and farm investments in Europe: Evidence from a newspaper-based index](https://doi.org/10.1002/ajae.70104) *American Journal of Agricultural Economics*
+
+
+
 ●  Garcia, V., Möhring, N., Wang, Y., & Finger, R. (2025). [Farmer Behavior towards herbicide-free agriculture and conservation tillage.](https://onlinelibrary.wiley.com/doi/10.1111/ajae.12550) *American Journal of Agricultural Economics*, 108(1), 28–53. 
 
 
